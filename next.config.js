@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        backendURL: 'http://localhost:4000',
-        frontendURL: 'http://localhost:3000'
+        backendURL: 'https://pure-spire-90203.herokuapp.com/',
+        frontendURL: 'https://nodesend-cliente-6kxd9xfn8-ysaiascampos.vercel.app'
     }
 }
